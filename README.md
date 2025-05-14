@@ -16,6 +16,16 @@ Imparare Python in modo **pratico**, con esercizi concreti, senza librerie ester
 
 ---
 
+## 🛬 Obiettivi Raggiunti
+
+
+- Fondamenti (Variabili, tipi di dati, Input/output, operatori matematici e logici)
+- Controlli di flussi(if, elif, else), Cicli for, while e funzioni basi come range, len.
+- Funzioni e moduli basi(def)
+- OOP – Programmazione a Oggetti con 3 esercizi svolti.
+
+---
+
 ## 💻 Requisiti
 
 - Python 3.x
@@ -25,9 +35,8 @@ Imparare Python in modo **pratico**, con esercizi concreti, senza librerie ester
 
 ## 🚀 Prossimi passi
 
-- 🧠 Giorno 5: OOP – Classi, oggetti, costruttori
-- 📦 Giorno 6: Moduli, import, riuso del codice
-- 🧪 Giorno 7: Progetto finale: calcolatrice interattiva
+- 📦 Moduli, import, riuso del codice
+- 🧪 Progetto finale: calcolatrice interattiva
 
 ---
 
