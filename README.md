@@ -23,7 +23,7 @@ Imparare Python in modo **pratico**, con esercizi concreti, senza librerie ester
 - Controlli di flussi(if, elif, else), Cicli for, while e funzioni basi come range, len.
 - Funzioni e moduli basi(def)
 - OOP – Programmazione a Oggetti con 3 esercizi svolti.
-
+- Programmazione a moduli con divisione in più file
 ---
 
 ## 💻 Requisiti
@@ -35,8 +35,7 @@ Imparare Python in modo **pratico**, con esercizi concreti, senza librerie ester
 
 ## 🚀 Prossimi passi
 
-- 📦 Moduli, import, riuso del codice
-- 🧪 Progetto finale: calcolatrice interattiva
+- 🧪 Progetto finale: Gestione studenti e voti
 
 ---
 
