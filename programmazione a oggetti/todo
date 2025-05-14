@@ -1,0 +1,19 @@
+1.🔧 Crea una classe Animale con attributi nome e specie,
+ e un metodo verso() che stampa "Sto facendo un verso".
+
+2.🧠 Crea una classe Studente con:
+
+nome, cognome, anno di nascita
+
+un metodo eta() che calcola quanti anni ha (usa 2025 - anno_nascita)
+
+un metodo scheda() che stampa: "Mi chiamo X Y e ho Z anni."
+
+3.🚗 Crea una classe Auto con:
+
+marca, modello, velocità
+
+metodo accelera(n) che aumenta la velocità di n
+
+metodo stato() che stampa la velocità attuale
+
