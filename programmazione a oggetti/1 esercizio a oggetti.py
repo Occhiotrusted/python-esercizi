@@ -3,9 +3,9 @@ class Animale:
         self.nome = nome
         self.specie = specie
 
-    def verso(self):
-        print("La "+self.specie, "di nome", self.nome, "ha fatto un verso")
+    def verso(self, suono):
+        print(f"La {self.specie} di nome {self.nome} fa: {suono}")
 
 
 animale = Animale("Shizu", "rana")
-animale.verso()
+animale.verso("braah braah")
