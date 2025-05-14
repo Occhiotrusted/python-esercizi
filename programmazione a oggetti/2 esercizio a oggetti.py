@@ -12,6 +12,6 @@ class Studente:
         anni = 2025-self.anno_nascita
         print("Mi chiamo",self.nome,self.cognome,"e ho",anni,"anni")
 
-stas = Studente("Mario", "Rossi", 2007)
-stas.eta()
-stas.scheda()
+mario = Studente("Mario", "Rossi", 2007)
+mario.eta()
+mario.scheda()

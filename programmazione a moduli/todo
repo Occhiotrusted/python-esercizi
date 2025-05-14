@@ -1,0 +1,15 @@
+1.🔄 Sposta la classe Studente in un file chiamato studente.py.
+Poi, da giorno6_main.py, importala e usala.
+
+2. Crea un modulo chiamato util.py con una funzione che calcola
+la media.
+Importala nel file principale e usala su [5, 10, 15].
+
+3. 🧠 Avanzato: crea un file main.py che:
+
+importa Studente da studente.py
+
+importa media() da util.py
+
+stampa l’età dello studente e calcola la media dei suoi voti
+
