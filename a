@@ -1,0 +1,11 @@
+Scrivi una funzione che saluta l’utente.
+ Si chiama saluta() e stampa "Benvenuto, utente!".
+
+Scrivi una funzione quadrato(numero)
+ che restituisce il quadrato di un numero passato.
+
+Scrivi una funzione è_pari(numero) che restituisce
+ True se il numero è pari, altrimenti False.
+
+Scrivi una funzione media(lista_numeri) che prende
+ in input una lista di numeri e restituisce la media.
